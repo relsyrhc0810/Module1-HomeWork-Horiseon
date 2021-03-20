@@ -24,4 +24,4 @@ THEN I find a concise, descriptive title
 
 ### Mock-Up
 Glimpse of what the website looks like
-<img src="./01-html-css-git-homework-demo.png" width="" heigth="">
+<img src="./develop/assets/images/01-html-css-git-homework-demo.png" width="" heigth="">
