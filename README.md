@@ -25,3 +25,11 @@ THEN I find a concise, descriptive title
 ### Mock-Up
 Glimpse of what the website looks like
 <img src="./develop/assets/images/01-html-css-git-homework-demo.png" width="" heigth="">
+
+### Deploy and/or publish the website:
+1.  Once you saved all the updates on your repository by (git add, git commit & git push), go to your [github account](https://github.com/login).
+1. Go to the repository(**username/RepositoryName**) you want to deploy.
+1. then go to the **Settings** tab.
+1. then navigate to the **Github Pages** section.
+1. then under **Branch** select **Master**, under **Folder** select **Root** and click **Save**.
+1. then you will see this: **Your site is published at http://<username>.github.io/<repository-name>** on the Github Pages Section and click the link.
